@@ -1,0 +1,29 @@
+1- What are Mutation Observers in JavaScript?
+	MutationObserver is an API that helps us observe changes
+	happening on the DOM tree right when these changes happen without lags
+_________________
+
+2- Explain 3 different CSS selectors.
+
+	A- .class:
+		eg: .class{
+			}
+		 is used in CSS to put all properties inside it, and any element in HTML that takes this class
+		will have all properties inside that class
+	B- element:
+		eg: p{
+			}
+		This will make all <p> elements take all the properties given inside p{} in CSS
+
+	C- hover:
+		eg: something:hover{}
+		This will make the properties inside hover{} apply to "something" whenever the mouse
+		hovers over it.
+
+_________________
+
+3- What is the difference between SessionStorage and LocalStorage in HTML5?
+
+	Session Storage and Local Storage have the same job, except
+	Session storage is destroyed once the browser is closed, meanwhile Local Storage has
+	no expiry date
